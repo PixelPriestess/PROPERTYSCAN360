@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+azure-ai-ml
+azure-functions
