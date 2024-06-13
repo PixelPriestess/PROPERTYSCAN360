@@ -1,0 +1,39 @@
+*Project Overview:*
+
+We are developing a smart system to assess property area conditions using advanced machine learning. Our system will continuously learn and improve from new data, handle 360-degree images, and provide precise information about different assets in the images through a user-friendly API.
+
+*Key Features and Functionalities:*
+
+1. *Machine Learning Model:* This model will analyze images of properties to determine their conditions accurately.
+   
+2. *Retraining Mechanism:* An API will allow the model to learn from new data continuously, enhancing its accuracy over time.
+   
+3. *360 Image Support:* The system will support panoramic images, providing a more comprehensive view of property conditions.
+   
+4. *Asset Localization API:* Users can upload images, and the system will identify and provide the location of various assets within the images.
+   
+5. *Scalable Deployment:* The APIs will be deployed using Azure App Services or Azure Functions, ensuring they can scale to meet demand.
+
+*Technology Components:*
+
+- *Azure Machine Learning:* Used for training, deploying, and managing the machine learning model.
+- *Azure Vision Studio:* For exploring and visualizing datasets.
+- *Semantic Kernel:* To enhance the system's ability to understand and segment different parts of images.
+- *Azure OpenAI:* Provides advanced AI functionalities for improved image analysis and understanding.
+- *Azure App Services/Functions:* Ensures the API is scalable and can handle varying loads effectively.
+
+*Detailed Description:*
+
+Our project aims to create an intelligent system capable of evaluating property conditions through images. The core component is a machine learning model trained to recognize different conditions and aspects of properties. This model is continuously improved by incorporating new data, which users can upload through a dedicated API.
+
+We recognize the importance of comprehensive image analysis, so our system supports 360-degree images. This allows for a complete view of the property, providing more accurate assessments.
+
+In addition to assessing property conditions, our system can locate and categorize assets within the images. This is particularly useful for tasks like property inspections, where knowing the exact location and condition of various assets (like furniture, appliances, etc.) is essential.
+
+To make our solution robust and scalable, we are leveraging Azure's powerful cloud services. Azure Machine Learning will handle the model training and management, ensuring high accuracy and performance. Azure Vision Studio helps us explore and visualize our datasets, making the model training process more efficient.
+
+We also plan to integrate Semantic Kernel for advanced image segmentation capabilities, enhancing the system's understanding of complex images. Azure OpenAI will provide cutting-edge AI capabilities, further boosting our image analysis performance.
+
+Lastly, our APIs will be deployed using Azure App Services or Azure Functions, ensuring they can scale seamlessly to handle increasing user demands. This deployment strategy guarantees that our system remains responsive and reliable, regardless of the load.
+
+By combining these technologies, we are creating a comprehensive, intelligent system for property area condition assessment that is both accurate and continuously improving.
