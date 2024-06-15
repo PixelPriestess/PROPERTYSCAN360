@@ -1,6 +1,6 @@
 *Project Overview:*
 
-We are developing a smart system to assess property area conditions using advanced machine learning. Our system will continuously learn and improve from new data, handle 360-degree images, and provide precise information about different assets in the images through a user-friendly API.
+I am developing a smart system to assess property area conditions using advanced machine learning. Our system will continuously learn and improve from new data, handle 360-degree images, and provide precise information about different assets in the images through a user-friendly API.
 
 *Key Features and Functionalities:*
 
@@ -26,14 +26,14 @@ We are developing a smart system to assess property area conditions using advanc
 
 Our project aims to create an intelligent system capable of evaluating property conditions through images. The core component is a machine learning model trained to recognize different conditions and aspects of properties. This model is continuously improved by incorporating new data, which users can upload through a dedicated API.
 
-We recognize the importance of comprehensive image analysis, so our system supports 360-degree images. This allows for a complete view of the property, providing more accurate assessments.
+I recognize the importance of comprehensive image analysis, so our system supports 360-degree images. This allows for a complete view of the property, providing more accurate assessments.
 
 In addition to assessing property conditions, our system can locate and categorize assets within the images. This is particularly useful for tasks like property inspections, where knowing the exact location and condition of various assets (like furniture, appliances, etc.) is essential.
 
-To make our solution robust and scalable, we are leveraging Azure's powerful cloud services. Azure Machine Learning will handle the model training and management, ensuring high accuracy and performance. Azure Vision Studio helps us explore and visualize our datasets, making the model training process more efficient.
+To make our solution robust and scalable,  I am leveraging Azure's powerful cloud services. Azure Machine Learning will handle the model training and management, ensuring high accuracy and performance. Azure Vision Studio helps us explore and visualize our datasets, making the model training process more efficient.
 
-We also plan to integrate Semantic Kernel for advanced image segmentation capabilities, enhancing the system's understanding of complex images. Azure OpenAI will provide cutting-edge AI capabilities, further boosting our image analysis performance.
+I also plan to integrate Semantic Kernel for advanced image segmentation capabilities, enhancing the system's understanding of complex images. Azure OpenAI will provide cutting-edge AI capabilities, further boosting our image analysis performance.
 
 Lastly, our APIs will be deployed using Azure App Services or Azure Functions, ensuring they can scale seamlessly to handle increasing user demands. This deployment strategy guarantees that our system remains responsive and reliable, regardless of the load.
 
-By combining these technologies, we are creating a comprehensive, intelligent system for property area condition assessment that is both accurate and continuously improving.
+By combining these technologies,  I am creating a comprehensive, intelligent system for property area condition assessment that is both accurate and continuously improving.
